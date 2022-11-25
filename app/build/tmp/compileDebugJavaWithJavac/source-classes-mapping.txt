@@ -1,0 +1,33 @@
+com/example/Lab3/db/PersonDao.java
+ com.example.Lab3.db.PersonDao
+com/example/Lab3/db/Dog.java
+ com.example.Lab3.db.Dog
+com/example/Lab3/RecyclerClickListener.java
+ com.example.Lab3.RecyclerClickListener
+com/example/Lab3/db/AppDatabase.java
+ com.example.Lab3.db.AppDatabase
+com/example/Lab3/MainActivity.java
+ com.example.Lab3.MainActivity
+ com.example.Lab3.MainActivity$1
+ com.example.Lab3.MainActivity$1DeletePerson
+ com.example.Lab3.MainActivity$1GetPersons
+ com.example.Lab3.MainActivity$1UpdatePerson
+com/example/Lab3/db/Cat.java
+ com.example.Lab3.db.Cat
+com/example/Lab3/db/DatabaseClient.java
+ com.example.Lab3.db.DatabaseClient
+com/example/Lab3/PersonAdapter.java
+ com.example.Lab3.PersonAdapter
+ com.example.Lab3.PersonAdapter$1
+ com.example.Lab3.PersonAdapter$2
+ com.example.Lab3.PersonAdapter$TasksViewHolder
+com/example/Lab3/BuildConfig.java
+ com.example.Lab3.BuildConfig
+com/example/Lab3/db/Person.java
+ com.example.Lab3.db.Person
+com/example/Lab3/UpdatePersonInfoActivity.java
+ com.example.Lab3.UpdatePersonInfoActivity
+ com.example.Lab3.UpdatePersonInfoActivity$1
+ com.example.Lab3.UpdatePersonInfoActivity$1EditPerson
+ com.example.Lab3.UpdatePersonInfoActivity$1GetPerson
+ com.example.Lab3.UpdatePersonInfoActivity$2GetPerson
